@@ -1,1 +1,1 @@
-create table test_table ( test_column varchar2(6));
+create table test_table ( test_column varchar2(10));
