@@ -1,0 +1,1 @@
+create table test_table ( test_column varchar2(5));
